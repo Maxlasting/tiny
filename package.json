@@ -1,5 +1,14 @@
 {
- "name": "@aman_manocha_/tiny",
- "version": "1.0.0"
+  "name": "@aman_manocha_/tiny",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "aman-manocha/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "aman_manocha_"
+  ]
 }
-
