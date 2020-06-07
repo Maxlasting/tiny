@@ -7,13 +7,13 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @aman_manocha_/tiny
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@aman_manocha_/tiny");
 
 tiny("So much space!");
 //=> "Somuchspace!"
